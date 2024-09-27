@@ -6,4 +6,4 @@ The Game "Squash The Creep" using Godot v4.3 is inspired by the classic 2D game 
 To increase the excitement and give players an edge, I’ve introduced a speed boost mechanic. This feature allows the player's character to temporarily move faster than the enemies, adding a layer of strategy to the gameplay. With the speed boost, players can quickly close the gap on creeps, dodge attacks, or escape dangerous situations. Timing the use of the boost becomes essential, as players must decide when to use it to either gain the upper hand or escape a swarm of creeps.With the speed boost, players can quickly close the gap on creeps, dodge attacks, or escape dangerous situations. Timing the use of the boost becomes essential, as players must decide when to use it to either gain the upper hand or escape a swarm of creeps.
 
 
-GitHub URL: https://github.com/sayantanmaity973/squash_the_creep_3d_high_speed
+GitHub URL for live demo: https://sayantanmaity973.github.io/squash_the_creep_3d_high_speed/
